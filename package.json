@@ -2,7 +2,6 @@
   "name": "wasabi-chess",
   "version": "1.5.1",
   "private": true,
-  "homepage": "https://byteshiva.github.io/chess",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
